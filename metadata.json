@@ -1,0 +1,6 @@
+{
+  "name": "MedLink",
+  "description": "Premium security-compliant secure operations healthcare SaaS platform including patient & doctor portals, real-time consultation queue management, and safe AI clinical assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
